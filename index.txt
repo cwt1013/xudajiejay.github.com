@@ -112,8 +112,7 @@ h1::before {
 </div>
 
 	<img src="./ww/w1.jpg" id="w1" />
-		<img src="./ww/w2.jpg" id="w1" />
-	<img src="./ww/w3.jpg" id="w1" />
+		
 	<img src="./ww/w4.jpg" id="w1" />
 	<img src="./ww/w5.jpg" id="w1" />
 	<img src="./ww/w6.jpg" id="w1" />
@@ -125,7 +124,6 @@ h1::before {
 	<img src="./ww/w12.jpg" id="w1" />
 	<img src="./ww/w13.jpg" id="w1" />
 		<img src="./ww/w14.jpg" id="w1" />
-	<img src="./ww/w15.jpg" id="w1" />
 	<img src="./ww/w16.jpg" id="w1" />
 	<img src="./ww/w17.jpg" id="w1" />
 
