@@ -6,7 +6,11 @@
 	<style type="text/css">
 	#ww{
 		text-align: center;
-		font-size: 30px；
+		font-size: 30px;
+		color: red;
+		font-family: serif;
+
+
 	}
 	#w1{
 		width: 200px;
@@ -104,7 +108,7 @@ h1::before {
 </head>
 
 <body>
-<p id="ww">被拐走的fairy</p>
+<p id="ww">被拐走的雯雯fairy</p>
 <div>
 </div>
 <h1>I Love You</h1>
@@ -112,7 +116,7 @@ h1::before {
 </div>
 
 	<img src="./ww/w1.jpg" id="w1" />
-		
+	
 	<img src="./ww/w4.jpg" id="w1" />
 	<img src="./ww/w5.jpg" id="w1" />
 	<img src="./ww/w6.jpg" id="w1" />
@@ -122,8 +126,9 @@ h1::before {
 		<img src="./ww/w10.jpg" id="w1" />
 	<img src="./ww/w11.jpg" id="w1" />
 	<img src="./ww/w12.jpg" id="w1" />
-	<img src="./ww/w13.jpg" id="w1" />
+	
 		<img src="./ww/w14.jpg" id="w1" />
+	
 	<img src="./ww/w16.jpg" id="w1" />
 	<img src="./ww/w17.jpg" id="w1" />
 
